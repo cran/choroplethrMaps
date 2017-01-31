@@ -1,10 +1,10 @@
-95c1b62bd1dcdbc4effc6ca9ce3eeac8 *DESCRIPTION
+7aabfe2bcd707c07f594115d7e3eacb2 *DESCRIPTION
 8cc0f0c23b6bcdf4a9de54d736c30803 *LICENSE
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 ca3256b96346de64b6c216fc6bbbe624 *R/country.R
 4c7373960dda1f1fc824b2316480e31a *R/county.R
 ffde0eaa6a910313e35b2754d9a448ea *R/state.R
-161c0146cf783b971c7d3029fc7080a6 *README.md
+af8979e991b0d9fe3455cc5f2e56b11c *README.md
 5e85c87483aaac3bee3b266878d3437a *data/country.map.rdata
 da812c03f642b9fcc1d0dc0953b6a600 *data/country.regions.rdata
 34cf9c733254f80044a793b9b5aee9b4 *data/county.map.rdata
